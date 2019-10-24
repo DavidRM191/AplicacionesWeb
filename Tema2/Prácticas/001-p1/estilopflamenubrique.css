@@ -1,0 +1,17 @@
+body {background-image: url("bg85.gif")}
+
+h1 {color: red; text-align: center}
+
+h2 {text-align: center;}
+
+img {border: red solid; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; margin: 25px 15px 20px 300px;}
+
+p {color: #C10000; font-size: 24px; margin: 22px 250px 0px 250px;}
+
+span.negrita {font-weight: bold;}
+
+span.subrayado {text-decoration: underline;}
+
+a {color: #178ADE; font-weight: bold; font-family: "Arial";}
+
+address {font-weight: bold; text-align: center; margin-bottom: 25px;}
