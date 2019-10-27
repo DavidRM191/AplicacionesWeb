@@ -1,0 +1,29 @@
+body {text-align: center;  width: 100%}
+
+table {background-color: #E9E9E9; border-spacing: 22px 0px; font-family: Arial; margin: 0 auto}
+
+tr.color {background-color: #FF4532; color: white}
+
+tr {background-color:white}
+
+td {padding-left: 50px; padding-right: 50px}
+
+span.renovación {font-size: 40px; line-height: 70px}
+
+span.precio {font-weight: bold; font-size: 70px}
+
+span.precioalmes {font-size: 40px}
+
+strong {line-height:50px}
+
+span.1 {line-height:40px; color: gray}
+
+span.2 {line-height:0px; color:gray}
+
+span.3 {line-height:50px; color:gray}
+
+td.cabeza {padding-bottom: 40px;}
+
+button {background-color: #FF4532; color: white; border: none; padding: 15px 32px; font-size: 16px; margin: 4px 2px; text-align: center; text-decoration: none; display: inline-block; cursor: pointer}
+
+td.padding {padding-top: 40px; padding-bottom: 40px}
