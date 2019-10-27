@@ -1,0 +1,33 @@
+h1 {color: teal;}
+
+h2 {color: blue;}
+
+td > b {color: orange}
+
+b {color: red;}
+
+span.verde {color: green}
+
+span.rojo {color:red}
+
+span.naranja {color:orange;}
+
+a {color: red;}
+
+i {color:blue;}
+
+span.morado{color: purple;}
+
+caption {color: blue;}
+
+th {color: red;}
+
+th.otro{color: orange;}
+
+td {color: green;}
+
+div {color: olive;}
+
+span.fuchsia {color: fuchsia;}
+
+table {border-collapse:collapse border:1px solid black;}
