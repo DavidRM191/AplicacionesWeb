@@ -1,0 +1,6 @@
+body {background-color: #172568}
+table {width: 100%; height: 100%; background-image: url("cielo.jpg"); background-repeat: no-repeat;}
+span {color: white; font-weight: normal;}
+h1 {color: white; font-size: 40px; font-family: Verdana}
+hr {width: 40%;}
+img {width: 200px; height: 200px; background-position: right;}
