@@ -1,0 +1,15 @@
+body {background-image: url("img/fondotematico.jpg"); background-repeat: no-repeat; background-size: cover;background-position: center;}
+
+h1 {font-family: Courier New; color: white}
+
+h2 {font-family: Courier New}
+
+img.cartelera {width: 200px; height: 300px}
+
+p {bottom; font-weight: bold; text-align: center; font-size: 15px}
+
+table {background-color: #FF1118; width: 100%}
+
+a.enlaces {color: white; font-weight: bold;}
+
+a{color: black; font-weight: bold;}
