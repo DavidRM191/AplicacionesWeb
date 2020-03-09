@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="practica3.css">
+    <title>Práctica 3 html5</title>
+  </head>
+  <body>
+    <header>
+      <h1>Formularios HTML5</h1>
+      <h2>Práctica 03 - Lenguaje HTML5</h2>
+    </header>
+
+    <article>
+      <section>
+        <form name="" method="post">
+          <p>Nombre:<input type="text" name="Nombre"></p>
+          <p>Apellidos:<input type="text" name="Apellidos"></p>
+          <p>Dirección:<input type="text" name="Direccion"></p>
+          <p>Email:<input type="text" name="Email"></p>
+          <p>URL:<input type="url" name="URL"></p>
+          <p>Fecha:<input type="date" name="Fecha"></p>
+          <p>Mes:<input type="month" name="Mes"></p>
+          <p>Semana:<input type="week" name="Semana"></p>
+          <p>Número (min -10, max 10):<input type="number" name="Numero" value="0" min="-10" max="10"></p>
+          <p>Intervalo (min0, max10):<input type="range" name="Intervalo" min="0" max="10"></p>
+          <p>Teléfono:<input type="tel" name="telefono"></p>
+          <p>Término de Búsqueda:<input type="search" name="Busqueda"></p>
+          <p>Selecciona un color:<input type="color" name="Color"></p>
+          <p>Tiempo de llegada:<input type="time" name="Tiempo"></p>
+          <p>Contraseña<input type="password" name="Contraseña"></p>
+          <p>Forma de pago: <br>
+            <input type="radio" name="Reembolso">Contra Reembolso <br>
+            <input type="radio" name="Tarjeta">Tarjeta de Crédito <br>
+            <input type="radio" name="Paypal">Paypal
+          </p>
+          <p>Deportes Favoritos:
+            <input type="checkbox" name="Futbol">Fútbol: <br>
+            <input type="checkbox" name="Baloncesto">Baloncesto: <br>
+            <input type="checkbox" name="Tenis">Tenis:
+          </p>
+          <p>Selecciona un Color:<select name="color">
+            <option>Amarillo</option>
+            <option>Azul</option>
+            <option>Rojo</option>
+            <option>Verde</option>
+          </select></p>
+          <p>Comentarios:<textarea name="Comentarios" rows="8" cols="80" placeholder="Introducir comentario..."></textarea></p>
+          <p>Adjuntar Ficheros:<input type="file" name="Fichero"></p>
+          <hr>
+          <input type="reset" name="Restablecer"> <input type="submit" name="Enviar">
+        </form>
+      </section>
+    </article>
+
+    <footer>
+      <address>
+        &copy 2016 IES Ntra. Sra. Los Remedios. All rights reserved.
+      </address>
+    </footer>
+  </body>
+</html>
